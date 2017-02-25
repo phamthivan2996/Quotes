@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/icHome"
+        android:icon="@drawable/home_black"
+        android:title="Home"/>
+    <item
+        android:id="@+id/icLike"
+        android:icon="@drawable/like_black"
+        android:title="Favourites"/>
+    <item
+        android:id="@+id/icNote"
+        android:icon="@drawable/note_black"
+        android:title="Notes"/>
+</menu>

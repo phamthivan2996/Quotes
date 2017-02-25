@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/screen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5C96D"
+    android:orientation="vertical"
+    android:padding="15dp"
+    >
+    <EditText
+        android:id="@+id/edNote"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="8" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <ImageView
+            android:id="@+id/icSave"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/save"
+           android:layout_alignParentRight="true"
+            android:layout_marginRight="40dp"/>
+
+        <ImageView
+            android:layout_width="70dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="30dp"
+            android:src="@drawable/quotes" />
+    </RelativeLayout>
+</LinearLayout>

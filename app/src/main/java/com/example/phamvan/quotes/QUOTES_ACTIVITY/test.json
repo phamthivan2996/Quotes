@@ -1,0 +1,77 @@
+{
+  "Marriage":
+  [
+    {
+      "id":1,
+      "author":"Chinese Proverb",
+      "sentence":"It is too late to pierce the ears of the bride when she is in her wedding.",
+      "vietnamese":"Khi cô dâu đã ngồi trên kiệu hoa thì có nói thủng tai cũng quá muộn."
+    },
+    {
+      "id":2,
+      "author":"Chinese Proverb",
+      "sentence":"If Heaven wishes to rain or your mother to remarry, there is no way to stop them.",
+      "vietnamese":"Nếu trời muốn mua, hoặc mẹ bạn muốn tái giá thì không có cách gì ngăn cản được."
+    },
+    {
+      "id":3,
+      "author":"Oriental Words",
+      "sentence":"The seats in the great hall all come in rotation; the daughter-in-law will some day be the mother-in-law.",
+      "vietnamese":"Tất cả ghế trong đại sảnh còn luân phiên nhau; đứa con gái riêng ngày nào đó sẽ là mẹ chồng(vợ)."
+    },
+    {
+      "id":4,
+      "author":"Chinese Proverb",
+      "sentence":"Even a clever daughter-in-law finds it hard to cook without rice.",
+      "vietnamese":"Ngay cả đứa con gái riêng khôn ngoan cũng thấy khó mà nấu ăn không có gạo."
+    },
+    {
+      "id":5,
+      "author":"English Proverb",
+      "sentence":"He that marries of wealth sells his liberty.",
+      "vietnamese":"Kết hôn vì tài sản là bán tự do."
+    },
+    {
+      "id":6,
+      "author":"Thomas Fuller",
+      "sentence":"Keep they eyes wide open before marriage, and half shut afterward.",
+      "vietnamese":"Hãy mở to mắt trước khi cử hành hôn lễ và sau đó hãy nhắm mắt lại."
+    },
+    {
+      "id":7,
+      "author":"French Proverb",
+      "sentence":"Love is the dawn of the marriage, and marriage is the sunset of love.",
+      "vietnamese":"Tình yêu là bình minh của hôn nhân. Hôn nhân là hoàng hôn của tình yêu."
+    },
+    {
+      "id":8,
+      "author":"John Davies",
+      "sentence":"Wedlock, indeed, hath of compared been to public feasts, where meet a public rout; where they that are without would fain go in. and they that are within would fain go out. ",
+      "vietnamese":"Chuyện hôn nhân ví như bữa tiệc; có đông người gặp gỡ xôn xao. Kẻ ngoài muốn bước chân vào, người trong ước có ngày nào thoát ra."
+    },
+    {
+      "id":9,
+      "author":"Anonymous",
+      "sentence":"Marriage is a romance in which the hero dies in the first chapter.",
+      "vietnamese":"Hôn nhân là một cuốn tiểu thuyết mà nhân vật chính chết ở ngay chương đầu tiên."
+    },
+    {
+      "id":10,
+      "author":"Jane Austen",
+      "sentence":"It is a truth universally acknowledged that a single man in possession of a good fortune must be in want of a wife.",
+      "vietnamese":"Đông đảo người đời công nhận chân lí này là đàn ông độc thân giàu có thì cần phải có vợ."
+    },
+    {
+      "id":11,
+      "author":"Mme De Rieux",
+      "sentence":"Marriage is a lottery in which men stake their liberty and women their happiness.",
+      "vietnamese":"Hôn nhân là một cuộc xổ số trong đó đàn ông đánh cược bằng sự tự do, còn đàn bà đánh cược bằng hạnh phúc."
+    },
+    {
+      "id":12,
+      "author":"Leo Tolstoy",
+      "sentence":"There’s sense behind the ritual of taking farewell of bachelor life… Happy as I hope you may be, even so it’s too bad to give up your freedom.",
+      "vietnamese":"Không phải vô cớ mà người ta bày ra tục lệ, vĩnh biêt quãng đời độc thân… Dẫu hạnh phúc đến đâu đi nữa, người ta vẫn thấy luyến tiếc tự do."
+    },
+  ]
+}
